@@ -5,7 +5,6 @@ lang: zh
 duration: 10min
 ---
 
-{{<audio src="audios/春風吹.m4a" caption="《春風吹》" >}}
 
 ## 前言
 
